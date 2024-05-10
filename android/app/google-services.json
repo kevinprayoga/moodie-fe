@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474331212795",
+    "project_id": "moodie-6284b",
+    "storage_bucket": "moodie-6284b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474331212795:android:b30d388efb584a5f0df95e",
+        "android_client_info": {
+          "package_name": "com.mood.moodie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBriT_TY-OEi74bFOuqqy7-FY2zfLOGbPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
